@@ -1,0 +1,9 @@
+questions
+What is MODE in 'ls'
+how do i delete folders?
+what is 'dir -R'
+pwd present working directory
+cd change directory
+what does 'mkdir -p' do?
+	'mkdir -p layer1/layer2/layer3' will create the directory 'layer3' 
+		even though layer1 and layer2 may not exist

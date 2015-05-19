@@ -1,0 +1,11 @@
+pwd - present working directory
+cd - change directory
+	'cd ..' or 'cd..' takes me one above 
+mkdir - make a new directory
+ls - list the current directories
+rmdir - remove a directory
+	removes one of the current directories
+	Can remove any directory within a path
+pushd - Saves my current directory, then goes to the directory I specify
+popd - Takes me back to my saved directory from pushd
+	The path within my saved directory need not be constant to pop back to it
